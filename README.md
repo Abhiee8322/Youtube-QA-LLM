@@ -1,8 +1,8 @@
 # YouTube Video Transcription with Q&A using LLM
-# Author: Abhishek Dubey
-# Linkedin: https://www.linkedin.com/in/abhishek-dubey96/
-# Email: abhishekdb.1996@gmail.com
-# Github: https://github.com/Abhiee8322
+### Author: Abhishek Dubey
+### Linkedin: https://www.linkedin.com/in/abhishek-dubey96/
+### Email: abhishekdb.1996@gmail.com
+### Github: https://github.com/Abhiee8322
 
 # Methodology followed:
 
