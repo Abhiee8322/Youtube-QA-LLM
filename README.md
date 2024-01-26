@@ -6,8 +6,8 @@
 
 # Methodology followed:
 
-# 1. Install/Import necessary libraries, modules.
-# 2. Function creation of filtering out videos based on length.
+#### 1. Install/Import necessary libraries, modules.
+#### 2. Function creation of filtering out videos based on length.
 # 3. Downloading the audio extracted from the output of the previous step and then storing it in a folder.
 # 4. Deleting audio (optional)
 # 5. Generated a function to split the input audio into small chunks due to token issue of whisper API and stored the processed audio into the folder.
